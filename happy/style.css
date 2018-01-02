@@ -12,7 +12,6 @@ margin:0;
 
     #header {
     
-/*    padding-top: 45px;*/
     position: relative;
     width:900px;
     height:190px;
@@ -27,8 +26,6 @@ margin:0;
     color:#2e6ca9;
     font-family: georgia,serif;
     font-size: 41px;
-/*    float:left;*/
-/*    padding-left:47px;*/
     margin-top: 0;
     padding-top: 47px;
     
@@ -40,7 +37,6 @@ margin:0;
     right: 0;
     top: 0;
     margin-top: 0;
-/*    margin-right: 393px;*/
     padding-top: 80px;
     padding-left: 84px;
     background-image:url(images/bulles_blanches.png);
@@ -76,7 +72,6 @@ margin:0;
     
         #content {
          
-/*        width:1000px;*/
         height:401px;
         padding-left:47px;
         padding-right:47px;
@@ -124,20 +119,16 @@ margin:0;
     
             background-image:url(images/dune.png);
             background-repeat:repeat-x;
-/*            width:1000px;*/
             height:285px;
             color:#a84772;
-/*
-            margin-left: auto;
-            margin-right: auto;
-*/
+
     
             }
     
             #fond {
     
             width:900px;
-/*            padding-left: 47px;*/
+
             margin-left: auto;
             margin-right: auto;
     
@@ -166,7 +157,6 @@ margin:0;
             #fond p {
             
             padding-top: 194px;
-/*            padding-left: 47px;*/
             padding-bottom: 80px;
             margin: 0;
             font-family: georgia,serif;
